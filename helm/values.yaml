@@ -1,5 +1,5 @@
 DTR:
-  FQDN: https://ec2-54-93-218-23.eu-central-1.compute.amazonaws.com/
+  FQDN: ec2-54-93-218-23.eu-central-1.compute.amazonaws.com/
   port: 4443
 
 DB:
